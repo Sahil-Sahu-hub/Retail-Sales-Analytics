@@ -1,5 +1,3 @@
-# Retail Sales Analytics
-
 ## Project Title
 Retail Sales Analytics
 
