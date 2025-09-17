@@ -23,35 +23,6 @@ Retail businesses operating in Istanbul malls face revenue stagnation due to lim
 - **Version Control:** Git/GitHub  
 - **Dashboarding:** Power BI Desktop, Streamlit (optional extension)
 
-## Methods
-1. **Data Ingestion**  
-   - Import raw retail sales CSV files and customer demographics dataset.  
-   - Store structured data in MySQL.  
-
-2. **Data Cleaning & Preprocessing**  
-   - Handle missing values, correct data types, and normalize date formats.  
-   - Remove duplicates and outliers using z-score filtering.  
-
-3. **Feature Engineering**  
-   - Derive metrics: revenue per category, customer lifetime value, mall-level footfall.  
-   - Generate temporal features (year, month, weekday).  
-
-4. **Exploratory Data Analysis (EDA)**  
-   - Perform descriptive statistics.  
-   - Visualize trends in demographics, sales, and payment methods.  
-
-5. **Analytical Methods**  
-   - Correlation analysis between demographics and category spend.  
-   - Time-series trend analysis of yearly revenue.  
-   - Segmentation of malls based on footfall and sales density.  
-
-6. **Validation**  
-   - Cross-check category-level totals against raw transactional data.  
-   - Perform sanity checks using summary statistics.  
-
-7. **Evaluation**  
-   - KPIs: YOY growth, revenue per customer, payment method adoption.  
-   - Benchmarked performance against peer malls.  
 
 ## Key Insights
 - Female customers dominate (60%) with an average age of 43 → Targeted promotions in clothing and shoes are essential.  
@@ -63,17 +34,25 @@ Retail businesses operating in Istanbul malls face revenue stagnation due to lim
 - Technology products show strong resilience → Reinforce marketing with installment-based promotions.  
 - Revenue per mall is unevenly distributed → Smaller malls require localized campaigns to attract footfall.  
 
-## Dashboard
-The primary deliverable is an **interactive Power BI dashboard** for real-time sales monitoring.  
+## Results & Conclusion
 
-- **Inputs:** Retail sales CSV files (transactions, customers, payments).  
-- **Outputs:** Interactive visuals (filters by category, mall, year).  
-- **Performance Targets:** Ability to update with new monthly data in <5 minutes.  
+- Revenue 2021: $114.56M
 
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
+- Revenue 2022: $115.43M
 
-## How to Run this project?
-### 1. Clone Repository
-```bash
-git clone https://github.com/[USERNAME]/retail-sales-analytics.git
-cd retail-sales-analytics
+- Revenue 2023: $21.50M (sharp decline, [REPLACE_WITH_ACTUAL_METRIC] after updated data).
+
+- Female-majority customer base (60%) with avg. age 43 confirmed.
+
+- Clothing leads sales with $113.99M.
+
+## Conclusion:
+Retail growth opportunities lie in targeting middle-aged female customers, replicating successful mall marketing. Limitations include reliance on transactional sales data without behavioral tracking.
+
+## Author & Contact
+
+Author: Sahil Sahu — Data Analyst 
+
+Contact:
+
+Email: sahil.sahu@example.com
