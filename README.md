@@ -1,5 +1,5 @@
 ## Project Title
-Retail Sales Analytics
+Customer Behavior Analytics
 
 ## Brief One Line Summary
 Comprehensive sales analytics of Istanbul malls to uncover customer trends, revenue drivers, and actionable retail strategies.
