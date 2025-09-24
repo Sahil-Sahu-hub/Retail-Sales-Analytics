@@ -14,16 +14,6 @@ By productionizing this workflow, the project ensures stakeholders can identify 
 ## Problem Statement
 Retail businesses operating in Istanbul malls face revenue stagnation due to limited visibility into customer preferences, inventory inefficiencies, and fragmented marketing execution. The absence of consolidated analytics leads to lost opportunities in high-performing categories and misallocation of resources. Success for this project is defined by improved decision-making across KPIs including category-level sales growth, customer retention rate, and operational efficiency.
 
-## Tools and Technologies
-- **Languages:** Python 3.11, SQL  
-- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
-- **Visualization:** Power BI, matplotlib, seaborn  
-- **Database:** MySQL 8.0  
-- **Environment:** Anaconda, Docker (for containerization)  
-- **Version Control:** Git/GitHub  
-- **Dashboarding:** Power BI Desktop, Streamlit (optional extension)
-
-
 ## Key Insights
 - Female customers dominate (60%) with an average age of 43 → Targeted promotions in clothing and shoes are essential.  
 - Revenue peaked in 2021–2022 but dropped sharply in 2023 → Indicates external shocks or demand shifts requiring intervention.  
